@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "237512120709",
+    "firebase_url": "https://proyfirebase-b807c-default-rtdb.firebaseio.com",
+    "project_id": "proyfirebase-b807c",
+    "storage_bucket": "proyfirebase-b807c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237512120709:android:6d96b29a315142dd9f8cec",
+        "android_client_info": {
+          "package_name": "mx.edu.utng.appfirebasegds0342"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237512120709-1ucbltbd6qjd75k8mlqqtm8o54a2iqtr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGXeeanff_RALx35ZlKpYVBmcIe1pts0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237512120709-1ucbltbd6qjd75k8mlqqtm8o54a2iqtr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237512120709:android:83f777fd8008b4aa9f8cec",
+        "android_client_info": {
+          "package_name": "mx.edu.utng.autenticacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237512120709-1ucbltbd6qjd75k8mlqqtm8o54a2iqtr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGXeeanff_RALx35ZlKpYVBmcIe1pts0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237512120709-1ucbltbd6qjd75k8mlqqtm8o54a2iqtr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237512120709:android:f735e38ab8fd689e9f8cec",
+        "android_client_info": {
+          "package_name": "mx.edu.utng.firebaseautenticationgds0342"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237512120709-1ucbltbd6qjd75k8mlqqtm8o54a2iqtr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGXeeanff_RALx35ZlKpYVBmcIe1pts0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237512120709-1ucbltbd6qjd75k8mlqqtm8o54a2iqtr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
